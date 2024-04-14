@@ -13,70 +13,70 @@ I am Aaron and currently \(April 15, 2024\) a self-taught full-stack developer ð
 
 <ul>
   <li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="24" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" />
     &nbsp;HTML5
   </li>
   <li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="24"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48"/>
     &nbsp;CSS3
   </li>
   <li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="TailwindCSS" width="24" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="TailwindCSS" width="48" />
     &nbsp;TailwindCSS
   </li>
   <li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="24" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="48" />
     &nbsp;Sass
   </li>
   <li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="24" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="48" />
     &nbsp;ReactJS
   </li>
   <li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original-wordmark.svg" alt="AstroJS" width="24" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original-wordmark.svg" alt="AstroJS" width="48" />
     &nbsp;AstroJS
   </li>
   <li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="24" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="48" />
     &nbsp;NextJS
   </li>
   <li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="24" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="48" />
   </li>
   <li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="24" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="48" />
     &nbsp;ExpressJS
   </li>
   <li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" alt="SocketIO" width="24" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" alt="SocketIO" width="48" />
     &nbsp;SocketIO
   </li>
   <li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" />
     &nbsp;Javascript
   </li>
   <li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="24" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="48" />
     &nbsp;Typescript
   </li>
   <li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust" width="24" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust" width="48" />
     &nbsp;Rust
   </li>
   <li>
-    <img src="https://rocket.rs/images/box-logo.png" alt="Rust Rocket" width="24" />
+    <img src="https://rocket.rs/images/box-logo.png" alt="Rust Rocket" width="48" />
     &nbsp;Rocket Rust Web Framework
   </li>
   <li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="24" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="48" />
     &nbsp;Canva
   </li>
   <li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="24" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="48" />
     &nbsp;Figma
   </li>
   <li>
-    <img src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/htmx.svg" alt="HTMX" width="24" />
+    <img src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/htmx.svg" alt="HTMX" width="48" />
     &nbsp;HTMX
   </li>
   <li>
@@ -115,11 +115,11 @@ I am Aaron and currently \(April 15, 2024\) a self-taught full-stack developer ð
 
 <ul>
   <li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="24" />
-    <a href="https://www.linkedin.com/in/aaron-ragudos-39a426286/" target="_blank">Contact me on LinkedIn</a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="48" />
+    &nbsp;<a href="https://www.linkedin.com/in/aaron-ragudos-39a426286/" target="_blank">Contact me on LinkedIn</a>
   </li>
   <li>
-    <img src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" alt="WhatsApp" width="24" />
-    <a href="https://Wa.me/+639957326474" target="_blank">Contact me on WhatsApp</a>
+    <img src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" alt="WhatsApp" width="48" />
+    &nbsp;<a href="https://Wa.me/+639957326474" target="_blank">Contact me on WhatsApp</a>
   </li>
 </ul>
