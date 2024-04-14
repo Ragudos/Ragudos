@@ -11,7 +11,13 @@ I am Aaron and currently \(April 15, 2024\) a self-taught full-stack developer �
 
 ### 🛠️ Technologies I know
 
-- ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg) HTML5
+<ul>
+  <li>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+    HTML5
+  </li>
+</ul>
+
 - ![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg) CSS3
 - ![TailwindCSS](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg) TailwindCSS
 - ![Sass](https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg) Sass
