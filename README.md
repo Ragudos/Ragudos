@@ -11,7 +11,7 @@ I am Aaron and currently \(April 15, 2024\) a self-taught full-stack developer �
 
 ### 🛠️ Technologies I know
 
-<ul>
+<ul style="display: flex; flex-wrap: wrap; gap: 1rem;">
   <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" />
     &nbsp;HTML5
