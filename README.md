@@ -11,22 +11,22 @@ I am Aaron and currently \(April 15, 2024\) a self-taught full-stack developer 
 
 ### üõ†Ô∏è Technologies I know
 
-- [HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg)
-- [CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg)
-- [TailwindCSS](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg)
-- [Sass](https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg)
-- [ReactJS](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)
-- [AstroJS](https://github.com/devicons/devicon/blob/master/icons/astro/astro-original-wordmark.svg)
-- [NextJS](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg)
-- [NodeJS](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg)
-- [ExpressJS](https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg)
-- [SocketIO](https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg)
-- [Javascript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
-- [Typescript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg)
-- [Rust](https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg)
+- ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg) HTML5
+- ![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg) CSS3
+- ![TailwindCSS](https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg) TailwindCSS
+- ![Sass](https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg) Sass
+- ![ReactJS](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg) ReactJS
+- ![AstroJS](https://github.com/devicons/devicon/blob/master/icons/astro/astro-original-wordmark.svg) AstroJS
+- ![NextJS](https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg) NextJS
+- ![NodeJS](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg) NodeJS
+- ![ExpressJS](https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg) ExpressJS
+- ![SocketIO](https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg) SocketIO
+- ![Javascript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) Javascript
+- ![Typescript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg) Typescript
+- ![Rust](https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg) Rust
 - Rust Rocket web framwork
-- [Canva](https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg)
-- [Figma](https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg)
+- ![Canva](https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg) Canva
+- ![Figma](https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg) Figma
 - HTMX
 
 ### üìà GitHub stats
@@ -48,7 +48,7 @@ I am Aaron and currently \(April 15, 2024\) a self-taught full-stack developer 
 
 #### Buy me a coffee
 
-![Support me](https://buymeacoffee.com/programmers_sanctuary)
+[Support me](https://buymeacoffee.com/programmers_sanctuary)
 
 #### My website
 
