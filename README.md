@@ -11,78 +11,25 @@ I am Aaron and currently \(April 15, 2024\) a self-taught full-stack developer �
 
 ### 🛠️ Technologies I know
 
-<ul style="display: flex; flex-wrap: wrap; gap: 1rem;">
-  <li>
+<div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="48" />
-    &nbsp;HTML5
-  </li>
-  <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="48"/>
-    &nbsp;CSS3
-  </li>
-  <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="TailwindCSS" width="48" />
-    &nbsp;TailwindCSS
-  </li>
-  <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="48" />
-    &nbsp;Sass
-  </li>
-  <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="48" />
-    &nbsp;ReactJS
-  </li>
-  <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original-wordmark.svg" alt="AstroJS" width="48" />
-    &nbsp;AstroJS
-  </li>
-  <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS" width="48" />
-    &nbsp;NextJS
-  </li>
-  <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="48" />
-  </li>
-  <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="48" />
-    &nbsp;ExpressJS
-  </li>
-  <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" alt="SocketIO" width="48" />
-    &nbsp;SocketIO
-  </li>
-  <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" />
-    &nbsp;Javascript
-  </li>
-  <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="48" />
-    &nbsp;Typescript
-  </li>
-  <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust" width="48" />
-    &nbsp;Rust
-  </li>
-  <li>
     <img src="https://rocket.rs/images/box-logo.png" alt="Rust Rocket" width="48" />
-    &nbsp;Rocket Rust Web Framework
-  </li>
-  <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="48" />
-    &nbsp;Canva
-  </li>
-  <li>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="48" />
-    &nbsp;Figma
-  </li>
-  <li>
     <img src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/htmx.svg" alt="HTMX" width="48" />
-    &nbsp;HTMX
-  </li>
-  <li>
-    Pug
-  </li>
-</ul>
+</div>
 
 ### 📈 GitHub stats
 
