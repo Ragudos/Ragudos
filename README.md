@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Nxc2RkYzd3dmZjYmk3Nm42aG1ycTJvMmNoY25zeHdhOHRmNzczZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="100" />
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCnp7fvKgSF5PE-ufdarmpxw)
 
 <!--
 **Ragudos/Ragudos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
