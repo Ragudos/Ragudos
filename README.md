@@ -33,7 +33,7 @@ I am Aaron and currently \(April 15, 2024\) a self-taught full-stack developer ð
     &nbsp;ReactJS
   </li>
   <li>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original-wordmark.svg" alt="AstroJS width="24" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original-wordmark.svg" alt="AstroJS" width="24" />
     &nbsp;AstroJS
   </li>
   <li>
