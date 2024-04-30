@@ -2,10 +2,9 @@
 I am Aaron and currently \(April 15, 2024\) a self-taught full-stack developer 💻.
 
 ### 📓 About me
-- ▶️ I make content in YouTube from time to time.
+- ▶️ I make content on YouTube from time to time.
 - 🖥️ I write websites for at least 3 hours of my time daily.
-- ⚡ Watching YouTube videos, playing the guitar, reading comics and books, dancing, write literature, and learning about programming are what I generally do in my free time.
-- 
+- ⚡ Watching YouTube videos, playing the guitar, reading comics and books, dancing, writing literature, and learning about programming are what I generally do in my free time.
 - 💪 I excel mostly in JavaScript and Frontend.
 
 ### 🛠️ Technologies I know
